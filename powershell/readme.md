@@ -20,7 +20,7 @@
                 - ">" 符號字元: \ue0b0 \ue0b1 \ue0b2
                 - style: psline(segment開始結尾相同)、diamond(前後不同)....
                 - invert_powerline:ture (顏色顛倒)
-            `搜尋`"\\":看註解
+            - `搜尋"\\":看註解`
 
 ## TODO
 - auto compelete (PSReadLine設定在畚箕安裝時有出現問題)
